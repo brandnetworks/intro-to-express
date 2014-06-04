@@ -1,5 +1,5 @@
 {
-  "name": "BN.U - Intro to Express",
+  "name": "BNUIntrotoExpress",
   "description": "intro to express 4",
   "version": "0.0.1",
   "keywords": [
@@ -27,5 +27,12 @@
       "name": "MIT License",
       "url": "https://github.com/brandnetworks/intro-to-express/blob/master/LICENSE"
     }
-  ]
+  ],
+  "dependencies": {
+    "express": "^4.4.1",
+    "morgan": "^1.1.1"
+  },
+  "scripts": {
+    "start": "supervisor node app.js"
+  }
 }
