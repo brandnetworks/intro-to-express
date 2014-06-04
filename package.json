@@ -1,0 +1,31 @@
+{
+  "name": "BN.U - Intro to Express",
+  "description": "intro to express 4",
+  "version": "0.0.1",
+  "keywords": [
+    "express",
+    "intro"
+  ],
+  "maintainers": [
+    {
+      "name": "George Adams",
+      "email": "g.w.adams.iv@gmail.com",
+      "web": "geowa4.github.io"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/brandnetworks/intro-to-express/issues"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:brandnetworks/intro-to-express.git"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT License",
+      "url": "https://github.com/brandnetworks/intro-to-express/blob/master/LICENSE"
+    }
+  ]
+}
